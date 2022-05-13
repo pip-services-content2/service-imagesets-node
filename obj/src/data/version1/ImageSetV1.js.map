@@ -1,0 +1,1 @@
+{"version":3,"file":"ImageSetV1.js","sourceRoot":"","sources":["../../../../src/data/version1/ImageSetV1.ts"],"names":[],"mappings":";;;AAIA,MAAa,UAAU;IAEnB,YAAmB,EAAU,EAAE,KAAa,EAAE,MAAiB;QAC3D,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,IAAI,GAAG,EAAE,CAAC;QACf,IAAI,CAAC,WAAW,GAAG,IAAI,IAAI,EAAE,CAAC;IAClC,CAAC;CAeJ;AAtBD,gCAsBC"}
